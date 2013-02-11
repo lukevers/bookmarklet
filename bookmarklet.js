@@ -1,3 +1,7 @@
 //
-//  initial commit :3
+//  javascript:(function(){ /*code*/ })();
 //
+
+function() {
+  //stuff here
+}
